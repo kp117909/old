@@ -1,1 +1,3 @@
-*.tmp , *.inf , temp
+*.tmp 
+*.inf 
+temp
